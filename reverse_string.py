@@ -11,3 +11,4 @@ def my_function(x):
 mytxt= my_function("\ni wonder how this text loos like backward")
 
 print(mytxt)
+print(type(mytxt))
